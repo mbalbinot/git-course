@@ -6,3 +6,5 @@ Alterando o arquivo para ver o comportamento.
 
 Mais uma alteração
 Teste de link [google.com.br](http://www.google.com.br)
+
+Nova linha
