@@ -8,3 +8,5 @@ Mais uma alteração
 Teste de link [google.com.br](http://www.google.com.br)
 
 Nova linha
+
+Integração com o GitHub
